@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/abdulwahab/Documents/GitHub/Spotify-Flutter/build/shared_preferences_android/intermediates/merged_res/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/abdulwahab/.gradle/caches/transforms-3/b96c3dec6b2191f31110b5aacc1f9cbc/transformed/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/abdulwahab/Documents/GitHub/Spotify-Flutter/build/shared_preferences_android/intermediates/merged_res/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/abdulwahab/.gradle/caches/transforms-3/b96c3dec6b2191f31110b5aacc1f9cbc/transformed/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/abdulwahab/Documents/GitHub/Spotify-Flutter/build/shared_preferences_android/intermediates/merged_res/debug/layout/notification_action.xml",
+        "source": "/Users/abdulwahab/.gradle/caches/transforms-3/b96c3dec6b2191f31110b5aacc1f9cbc/transformed/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/abdulwahab/Documents/GitHub/Spotify-Flutter/build/shared_preferences_android/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/Users/abdulwahab/.gradle/caches/transforms-3/b96c3dec6b2191f31110b5aacc1f9cbc/transformed/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/abdulwahab/Documents/GitHub/Spotify-Flutter/build/shared_preferences_android/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/abdulwahab/.gradle/caches/transforms-3/b96c3dec6b2191f31110b5aacc1f9cbc/transformed/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/abdulwahab/Documents/GitHub/Spotify-Flutter/build/shared_preferences_android/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/abdulwahab/.gradle/caches/transforms-3/b96c3dec6b2191f31110b5aacc1f9cbc/transformed/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]
