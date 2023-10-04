@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       fallbackLocale: Locale('en', 'US'),
       title: 'spotify_flutter',
       initialBinding: InitialBindings(),
-      initialRoute: AppRoutes.appNavigationScreen,
+      initialRoute: AppRoutes.initialRoute,
       getPages: AppRoutes.pages,
     );
   }
